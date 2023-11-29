@@ -24,7 +24,7 @@ const userObjects = {
     age: 22,
     isLoggedIn: true,
 }
-
+let anoutherUser = userObjects
  const sayHellow = function (){
     console.logJ("Rishika R Midhra")
  }
