@@ -30,4 +30,4 @@ const userObjects = {
  }
 
  const registerAUser = function(){}
- const feature = functionL(){}
+ const feature = function(){}
