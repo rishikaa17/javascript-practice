@@ -1,0 +1,20 @@
+const myArray = [1,2,3,4,5]
+const myNewArray = new Array(1,2,3,4,5)
+console.log(myArray[1])
+const dcHeros = new Array("Bataman","Superman","Spiderman", "Aquaman")
+console.log(dcHeros.length);
+//dcHeros[dcHeros.length] = "Wonder Women"
+//console.log(dcHeros)            
+// dcHeros.push("Wonderwomen")
+// console.log(dcHeros)
+// dcHeros.pop()
+// console.log(dcHeros)
+// const femaleDcHero = dcHeros.pop()
+// console.log(femaleDcHero)
+// dcHeros.unshift("Aquaman")
+// console.log(dcHeros)
+// console.log(dcHeros.toString())
+// console.log(dcHeros.join("-"))
+console.log(dcHeros.slice(1,3))
+console.log(dcHeros)
+console.log(dcHeros.splice(1,3))

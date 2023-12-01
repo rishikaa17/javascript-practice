@@ -17,3 +17,13 @@ console.log(email.includes('rishi'))
 console.log(email.toUpperCase())
 
 */
+const number = new Number(5.46582568)
+console.log(number.toFixed(2))
+
+const subscribers = 100000
+console.log(subscribers.toLocaleString())
+console.log(Number.MAX_VALUE)
+
+console.log(Math)
+console.log(Math.random()*10)
+console.log(Math.floor(Math.random()*10))
