@@ -1,3 +1,3 @@
-console.log("Rishika R Mishra")
-console.error("Rishika R Mishra")
-console.warn("Rishika R Mishra")
+console.log("Rishika Mishra ")
+console.error("I am changing my life from now ")
+console.warn("just do it damn it")
