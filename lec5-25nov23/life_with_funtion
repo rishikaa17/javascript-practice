@@ -1,0 +1,12 @@
+function calculateSquareOfNumber(num) {
+    //logic to calculate square a number
+    let squareValue = num * num;
+    //return the output of the square value
+    console.log(arguments)
+    return squareValue;
+}
+
+let result1 = calculateSquareOfNumber(9);
+console.log(result1);
+console.log(calculateSquareOfNumber(5))
+console.log(5)
